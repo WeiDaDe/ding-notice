@@ -1,5 +1,5 @@
 {
-    "name": "wangju/ding-notice",
+    "name": "wangju/ding-notice-ave",
     "description": "a dingtalk robot message handle for send message",
     "keywords": ["laravel", "ding talk", "ding notice"],
     "require": {
@@ -35,6 +35,10 @@
         {
             "name": "王举",
             "email": "35649084@qq.com"
+        },
+        {
+            "name": "ave",
+            "email": "aveemail@163.com"
         }
     ]
 }
